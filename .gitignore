@@ -1,0 +1,5 @@
+**/*.png
+**/*.txt
+**/*.directory
+**/testfiles/
+**/.DS_Store
