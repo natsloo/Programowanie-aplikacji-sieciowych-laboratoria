@@ -3,3 +3,5 @@
 **/*.directory
 **/testfiles/
 **/.DS_Store
+**/examples/
+**/zad*/
